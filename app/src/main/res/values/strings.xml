@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testing test</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="confirmEmail">Confirm email</string>
+    <string name="register">Register</string>
+    <string name="required_field">Field is required</string>
+    <string name="confirmation_failed">Email and confirmation are different</string>
+</resources>
